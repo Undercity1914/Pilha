@@ -25,7 +25,8 @@ int main()
 		case 0:
 			break;
 		default:
-			cout << "Não existe essa opcao. Por favor, tente novamente!" << endl;
+			cout << "NÃ£o existe essa opcao. Por favor, tente novamente!" << endl;
+			break;
 		}
 	} while (ask != 0);
 
